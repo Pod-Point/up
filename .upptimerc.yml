@@ -1,0 +1,102 @@
+# Change these first
+owner: Pod-Point # Your GitHub username
+repo: devops-upptime # Your GitHub repository name
+
+# Similar to https://console.aws.amazon.com/route53/healthchecks/home#/
+sites:
+  - name: Pod Point
+    url: https://www.pod-point.com
+
+  - name: Pod Point NO
+    url: https://pod-point.no/
+  
+  - name: Pod Point Uk 
+    url: http://pod-point.co.uk/
+    
+  - name: Pod Point Brand website
+    url: https://brand.pod-point.com/
+    
+  - name: Arch2 API
+    url: https://api-dist.pod-point.com/v3/pods/config/time
+    
+  - name: Arch2 SS API 
+    url: https://api-dist.pod-point.com/v3/pods/config/time
+    __dangerous__disable_verify_peer: true
+
+  - name: Api Proxy to Arch2 API
+    url: https://api-proxy.pod-point.com/v3/pods/config/time
+  
+  - name: Charging map
+    url: https://charge.pod-point.com/
+    
+  - name: MIS
+    #fyi - admin cnames to manage
+    url: https://admin.pod-point.com/login
+
+  - name: Ordering Tool
+    url: https://ordering.pod-point.com/login
+    
+  - name: API 3
+    url: https://api3.pod-point.com/
+    
+  - name: Auth Service
+    url: https://auth.pod-point.com
+    
+  - name: Charges API
+    url: https://charges-api.pod-point.com/status
+    
+  - name: Commissiong Service
+    url: https://commission.pod-point.com/
+    
+  - name: RFID API
+    url: http://rfid.pod-point.com/status
+
+  - name: Contractors Tool
+    url: https://contractors.pod-point.com/auth/login
+
+  - name: Dealerships Tool
+    url: https://partners.pod-point.com/auth/login
+    
+  - name: Charges API
+    url: https://charges-api.pod-point.com/status
+
+  - name: Partners Portal
+    url: https://partners.pod-point.com/auth/login
+    
+  - name: PDF Service
+    url: https://pdf.pod-point.com/
+
+  - name: PP Docs API
+    url: https://docs.pod-point.com/
+
+  - name: OCPP Service
+    url: https://ocpp.pod-point.com/health-check
+
+assignees: # Users to assign downtime issues (optional)
+  - smitche1
+
+#check every 10 minutes
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
+
+status-website:
+  # Uncomment the following line if you don't have a custom domain and add your repo name
+  # baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
