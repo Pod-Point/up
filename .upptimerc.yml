@@ -78,13 +78,13 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://brand.pod-point.com/img/pod-point-logo.svg
+  #logoUrl: https://brand.pod-point.com/img/pod-point-logo.svg
   name: PodPoint
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+ #   - title: GitHub
+ #     href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
