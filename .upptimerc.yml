@@ -76,8 +76,8 @@ assignees: # Users to assign downtime issues (optional)
   - smitche1
 
 status-website:
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  # Uncomment for now
+  baseUrl: /up
   #logoUrl: https://brand.pod-point.com/img/pod-point-logo.svg
   name: PodPoint
   navbar:
