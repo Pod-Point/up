@@ -1,5 +1,5 @@
-owner: Pod-Point # Your GitHub username
-repo: devops-upptime # Your GitHub repository name
+owner: Pod-Point
+repo: up
 
 # Similar to https://console.aws.amazon.com/route53/healthchecks/home#/
 sites:
