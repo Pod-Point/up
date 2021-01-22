@@ -1,4 +1,3 @@
-# Change these first
 owner: Pod-Point # Your GitHub username
 repo: devops-upptime # Your GitHub repository name
 
@@ -76,15 +75,8 @@ assignees: # Users to assign downtime issues (optional)
   - smitche1
 
 status-website:
-  # Uncomment for now
+  name: Status
   baseUrl: /up
-  #logoUrl: https://brand.pod-point.com/img/pod-point-logo.svg
-  name: PodPoint
-  navbar:
-    - title: Status
-      href: /
- #   - title: GitHub
- #     href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
