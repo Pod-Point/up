@@ -40,9 +40,9 @@
     "url": "http://pod-point.co.uk/",
     "icon": "https://favicons.githubusercontent.com/pod-point.co.uk",
     "slug": "pod-point-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1036,
     "timeMonth": 1027,
     "timeYear": 1021,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-03": 0
+    }
   },
   {
     "name": "Pod Point Brand website",
@@ -150,12 +152,12 @@
     "slug": "mis",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 910,
-    "timeDay": 907,
+    "timeDay": 772,
     "timeWeek": 957,
     "timeMonth": 930,
     "timeYear": 910,
