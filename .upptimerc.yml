@@ -65,8 +65,8 @@ sites:
   - name: PDF Service
     url: https://pdf.pod-point.com/
 
-  - name: PP Docs API
-    url: https://docs.pod-point.com/
+#  - name: PP Docs API
+#    url: https://docs.pod-point.com/
 
   - name: OCPP Service
     url: https://ocpp.pod-point.com/health-check
