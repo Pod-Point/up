@@ -71,8 +71,8 @@ sites:
   - name: OCPP Service
     url: https://ocpp.pod-point.com/health-check
 
-assignees: # Users to assign downtime issues (optional)
-  - smitche1
+#assignees: # Users to assign downtime issues (optional)
+#  - 
 
 status-website:
   name: Status
