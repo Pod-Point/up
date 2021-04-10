@@ -150,7 +150,7 @@
     "url": "https://admin.pod-point.com/login",
     "icon": "https://favicons.githubusercontent.com/admin.pod-point.com",
     "slug": "mis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
