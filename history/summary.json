@@ -132,7 +132,7 @@
     "url": "https://charge.pod-point.com/",
     "icon": "https://favicons.githubusercontent.com/charge.pod-point.com",
     "slug": "charging-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -140,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 3688,
     "timeDay": 4326,
-    "timeWeek": 5684,
+    "timeWeek": 4834,
     "timeMonth": 5846,
     "timeYear": 3688,
     "dailyMinutesDown": {}
