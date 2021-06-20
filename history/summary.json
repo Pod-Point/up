@@ -368,17 +368,17 @@
     "url": "https://ocpp.pod-point.com/health-check",
     "icon": "https://favicons.githubusercontent.com/ocpp.pod-point.com",
     "slug": "ocpp-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 441,
-    "timeWeek": 493,
-    "timeMonth": 505,
-    "timeYear": 466,
+    "time": 467,
+    "timeDay": 496,
+    "timeWeek": 500,
+    "timeMonth": 506,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   }
 ]
