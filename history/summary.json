@@ -368,7 +368,7 @@
     "url": "https://ocpp.pod-point.com/health-check",
     "icon": "https://favicons.githubusercontent.com/ocpp.pod-point.com",
     "slug": "ocpp-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
