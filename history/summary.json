@@ -40,17 +40,17 @@
     "url": "http://pod-point.co.uk/",
     "icon": "https://favicons.githubusercontent.com/pod-point.co.uk",
     "slug": "pod-point-uk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 970,
-    "timeDay": 844,
-    "timeWeek": 1077,
-    "timeMonth": 1073,
-    "timeYear": 970,
+    "time": 971,
+    "timeDay": 1001,
+    "timeWeek": 1087,
+    "timeMonth": 1075,
+    "timeYear": 971,
     "dailyMinutesDown": {
       "2021-03-03": 32
     }
